@@ -16,10 +16,8 @@
 
 ## 📱 Application Preview
 
-> **Add your application screenshot here**
-> 
-> `<p align="center">
-  <img src="Images/img1.png" style="width:250px; height:400px; object-fit: cover;" />
+> <p align="center">
+  <img src="Images/img1.png" style="width:300px; height:400px; object-fit: cover;" />
 </p>
 
 ---

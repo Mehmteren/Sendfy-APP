@@ -21,9 +21,9 @@
 ### 🤖 Sendify - Picture Sending Robot in Action
 
 <p align="center">
-  <img src="Images/img2.png" alt="Home Screen" width="300" height="400"/>
-  <img src="Images/img1.png" alt="Upload Interface" width="300" height="400"/>
-  <img src="Images/img3.png" alt="Upload Status" width="300" height="400"/>
+  <img src="Images/img2.png" alt="Home Screen" width="250" height="350"/>
+  <img src="Images/img1.png" alt="Upload Interface" width="250" height="350"/>
+  <img src="Images/img3.png" alt="Upload Status" width="250" height="350"/>
 </p>
 
 </div>

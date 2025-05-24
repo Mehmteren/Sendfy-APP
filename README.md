@@ -29,7 +29,6 @@
 ### 📸 **Image Upload**
 - **Camera Integration** - Capture photos instantly
 - **Gallery Selection** - Choose from existing photos
-- **Cross-Platform** - Works on iOS, Android, and Web
 - **Real-time Feedback** - Live upload status updates
 
 ### 🎨 **Modern UI/UX**

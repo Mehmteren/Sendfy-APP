@@ -58,7 +58,7 @@
 
 ```
 ┌─────────────────┐    HTTPS         ┌──────────────────┐    EF Core    ┌──────────────┐
-│   Flutter App   │ ◄──Multipart──► │ ASP.NET Core API │ ◄──────────► │ PostgreSQL   │
+│   Flutter App   │ ◄──Multipart──►  │ ASP.NET Core API │ ◄──────────►  │ PostgreSQL   │
 │                 │    Form Data     │                  │               │   Database   │
 │ • Image Picker  │                  │ • Repository     │               │              │
 │ • HTTP Client   │                  │ • Clean Arch     │               │ • Images     │

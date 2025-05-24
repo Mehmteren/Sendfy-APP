@@ -16,8 +16,10 @@
 
 ## 📱 Application Preview
 
-> <p align="center">
-  <img src="Images/img1.png" style="width:300px; height:400px; object-fit: cover;" />
+<p align="center">
+  <img src="Images/img2.png" style="width:300px; height:400px; object-fit: cover;"/>
+  <img src="Images/img1.png" style="width:300px; height:400px; object-fit: cover;"/>
+  <img src="Images/img3.png" style="width:300px; height:400px; object-fit: cover;"/>
 </p>
 
 ---

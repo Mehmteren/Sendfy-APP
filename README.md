@@ -26,10 +26,6 @@
   <img src="Images/img3.png" alt="Upload Status" width="300" height="400"/>
 </p>
 
-**Left:** Home Screen with Logo and Branding  
-**Center:** Image Selection and Upload Interface  
-**Right:** Real-time Upload Status and History
-
 </div>
 
 ---

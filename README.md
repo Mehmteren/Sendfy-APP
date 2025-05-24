@@ -18,7 +18,9 @@
 
 > **Add your application screenshot here**
 > 
-> `![App Screenshot](assets/app-screenshot.png)`
+> `<p align="center">
+  <img src="Images/img1.png" style="width:250px; height:400px; object-fit: cover;" />
+</p>
 
 ---
 
